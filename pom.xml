@@ -19,7 +19,7 @@
         <spring.data.jpa>2.1.1.RELEASE</spring.data.jpa>
         <commons-lang3>3.8.1</commons-lang3>
         <lombok>1.18.6</lombok>
-        <jodd.version>5.0.13</jodd.version>
+        <jodd.version>6.2.1</jodd.version>
     </properties>
 
     <dependencies>
